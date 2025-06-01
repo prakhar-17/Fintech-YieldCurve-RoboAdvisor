@@ -1,0 +1,4 @@
+user,goal,recommended_weights,adjusted_risk_score,original_risk_score
+Alex (Young Aggressive),Wealth Growth,"{'SPY': np.float64(0.17), 'AGG': np.float64(0.46), 'GLD': np.float64(0.37)}",0.46499832,0.9
+Jamie (Balanced),Retirement Planning,"{'SPY': np.float64(0.05), 'AGG': np.float64(0.6), 'GLD': np.float64(0.35)}",0.30999888000000003,0.6
+Pat (Conservative),Capital Preservation,"{'SPY': np.float64(0.05), 'AGG': np.float64(0.6), 'GLD': np.float64(0.35)}",0.15499944000000002,0.3
